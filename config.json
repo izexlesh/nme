@@ -1,0 +1,12 @@
+{
+    "prefix": ">",
+    "token": "NzgxMDU0MTMwNjEzNTE4MzU3.X74DWA.Jaw9XRE4V07NyX7q8ZOF3jBGKUo",
+    "emoji": {
+        "play": "<:play:820806237070950462>",
+        "stop": "<:stop:820806346647011388>",
+        "queue": "<:queue:820806459544961047>",
+        "success": "<:Success1:820811447843029022>",
+        "repeat": "<:repeat:820806786796748890>",
+        "error": "<:error:820806914606235659>"
+    }
+}
